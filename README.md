@@ -45,9 +45,3 @@ Hoje trabalho com uma plataforma para empresas que participam de **licitações 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📫 Contato
-
-<!-- Preencha com os links que quiser deixar públicos -->
-- LinkedIn: _a definir_
-- E-mail: _a definir_
