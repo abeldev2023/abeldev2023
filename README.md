@@ -12,6 +12,7 @@ Hoje trabalho com uma plataforma para empresas que participam de **licitações 
 
 **Backend**
 - Node.js + Express + TypeScript (APIs REST, autenticação JWT, permissões por perfil)
+- Python com FastAPI e Flask (APIs REST)
 - Integrações HTTP com portais públicos e scraping (PNCP e outros)
 - Jobs agendados, uploads e processamento de PDF
 
@@ -38,6 +39,9 @@ Hoje trabalho com uma plataforma para empresas que participam de **licitações 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
